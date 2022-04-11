@@ -43,6 +43,12 @@ class ProductSeeder extends Seeder
                 'description'=>'Root beer by the best root beerer?',
                 'category'=>'drinks',
                 'gallery'=>'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.us-sweets.de%2Fmedia%2Fimage%2Fproduct%2F4165%2Flg%2Fmug-root-beer.jpg&f=1&nofb=1'
+            ],[
+                'name'=>'Mountain Dew',
+                'price'=>'4',
+                'description'=>'Purest juice straight from the mountain',
+                'category'=>'drinks',
+                'gallery'=>'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkiosclub.com%2F5961-large_default%2Fgaseosa-mountain-dew-36-355-ml.jpg&f=1&nofb=1'
             ]
         ]);
     }
